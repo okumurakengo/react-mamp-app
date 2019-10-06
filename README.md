@@ -1,3 +1,5 @@
+mampのルートがプロジェクトのルートになるようにして動かす
+
 ```
 composer install
 
