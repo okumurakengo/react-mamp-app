@@ -3,7 +3,7 @@
 # mampのルートに移動
 cd /Applications/MAMP/htdocs
 
-# mampのルートがプロジェクトのルートになるようにして動かす
+# mampのルートがプロジェクトのルートになるようにする
 git clone git@github.com:okumurakengo/react-mamp-app.git .
 
 composer install
